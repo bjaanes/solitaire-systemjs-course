@@ -1,3 +1,5 @@
+import { module, inject } from "angular-mocks";
+
 import "../../../app/klondike/klondike.js";
 import TableauPile from "../../../app/klondike/piles/tableauPile.js";
 import RemainderPile from "../../../app/klondike/piles/remainderPile.js";

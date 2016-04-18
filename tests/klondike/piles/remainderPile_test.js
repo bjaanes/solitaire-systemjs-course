@@ -1,3 +1,5 @@
+import { module, inject } from "angular-mocks";
+
 import Deck from "deck";
 import Card from "card";
 import RemainderPile from "../../../app/klondike/piles/remainderPile.js";

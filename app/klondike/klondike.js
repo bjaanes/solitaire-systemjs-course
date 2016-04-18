@@ -1,3 +1,5 @@
+import angular from "angular";
+
 import { Scoring } from "./scoring.js"
 import "./game.js"
 import "./board.js"
